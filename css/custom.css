@@ -1,0 +1,32 @@
+.border-color{
+    border-color: #DFDFDF !important;
+}
+
+input:focus {
+    outline: none;
+}
+
+.allcat-color{
+    color: #302F2F;
+}
+
+.title-color{
+    color: #111111;
+}
+
+.ps-18{
+    padding-left: 18rem !important;
+}
+
+.w-70{
+    width: 95%;
+}
+
+.text-xl {
+    font-size: 1.5625rem !important;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+    color: #FF4F04;
+    border-bottom: 3px solid;
+}

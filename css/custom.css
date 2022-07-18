@@ -7,11 +7,23 @@ input:focus {
 }
 
 .allcat-color{
-    color: #302F2F;
+    color: #302F2F !important;
 }
 
 .title-color{
     color: #111111;
+}
+
+.orangecolor{
+    color: #FF4F04;
+}
+
+.bgbutton-color{
+    background-color: #111111 !important;
+}
+
+.bgbox-color{
+    background-color: #F5F5F6;
 }
 
 .ps-18{
@@ -26,7 +38,18 @@ input:focus {
     font-size: 1.5625rem !important;
 }
 
-.navbar-light .navbar-nav .nav-link.active {
-    color: #FF4F04;
-    border-bottom: 3px solid;
+.mt-27{
+    margin-top: 27rem !important;
+}
+
+.titleh2{
+    font-size: 30px !important;
+}
+
+.w-95{
+    width: 95%;;
+}
+
+.spanbg-color{
+    background-color: rgba(255,79,4, 0.09);
 }
